@@ -1,0 +1,153 @@
+INFO     root:conftest.py:64 测试开始
+INFO     root:create_lab_function.py:28 没找到需要关闭的弹窗
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:38:26
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Starting
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Starting
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Starting
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:39:27
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:40:29
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:41:30
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:42:32
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:43:33
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:44:35
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:45:36
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:46:38
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:47:39
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:48:41
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:49:42
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:50:44
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:51:45
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:52:46
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:53:48
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Running
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Running
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Running
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:54:49
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopping
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopping
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopping
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:55:51
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopped
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:56:52
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopped
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:57:54
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopped
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:58:55
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopped
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 16:59:56
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopped
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 17:00:58
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopped
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 17:02:00
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopped
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:all_vm_state_test.py:18 Checking VM status at 2025-03-31 17:03:01
+INFO     root:vm_pool_function.py:19 vmType:Template,state:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,v-yixueli@microsoft.com:Stopped
+INFO     root:vm_pool_function.py:26 vmType:User,yixuelie@outlook.com:Stopped
+INFO     root:vm_pool_function.py:28 vmType:User,User not claimed:Stopped
+INFO     root:all_vm_state_test.py:20 --------------------------------------------------
+INFO     root:conftest.py:66 测试结束
